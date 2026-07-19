@@ -1,0 +1,9 @@
+{
+  "appId": "com.kemo.jadwali",
+  "appName": "جدولي",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat_icon", "iconColor": "#488AFF" }
+  }
+}
